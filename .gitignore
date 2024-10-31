@@ -54,7 +54,6 @@ out/
 .next/
 
 # If using Gatsby
-.cache/
 public/
 
 # If using Expo
